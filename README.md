@@ -51,3 +51,4 @@ Gather user feedback to make updates tailored to user needs.
 The QR-Enabled Event Manager with Firebase is a comprehensive and secure tool for event administration, providing users with full control over their scheduled activities backed by the robustness and reliability of Firebase. Download the application now and simplify your experience in event management!
 
 
+<img src="./assets/create.png" alt="app homepage" />
