@@ -1,5 +1,5 @@
 
-<b> Event Manager with Firebase Integration - QR - Fluttterflow </b>
+<b> Event Manager Mobile & Desktop with Firebase Integration - QR - Fluttterflow - iOS, Android</b>
 <img src="./assets/homepage-events.png" alt="app homepage" />
 
 Description:
