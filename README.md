@@ -1,8 +1,11 @@
 
-Project Title: QR-Enabled Event Manager with Firebase Integration
-<img src="./assets/homepage-events.png" alt="" />
+<b> Event Manager with Firebase Integration - QR - Fluttterflow </b>
+<img src="./assets/homepage-events.png" alt="app homepage" />
 
 Description:
+
+I successfully delivered this project within a tight two-day time frame.
+
 
 The QR-Enabled Event Manager is an application developed in FlutterFlow that streamlines event management, enabling users to efficiently register, edit, and delete events. The application integrates key features to facilitate event organization and participation, providing a smooth and user-friendly experience, backed by the power of Firebase.
 
@@ -48,6 +51,3 @@ Gather user feedback to make updates tailored to user needs.
 The QR-Enabled Event Manager with Firebase is a comprehensive and secure tool for event administration, providing users with full control over their scheduled activities backed by the robustness and reliability of Firebase. Download the application now and simplify your experience in event management!
 
 
-
-
-User
