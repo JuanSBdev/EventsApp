@@ -1,5 +1,6 @@
 
 Project Title: QR-Enabled Event Manager with Firebase Integration
+<img src="./assets/homepage-events.png" alt="" />
 
 Description:
 
